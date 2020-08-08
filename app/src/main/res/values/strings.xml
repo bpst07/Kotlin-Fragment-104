@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Fragment Config</string>
+    <string name="hello_fragment_one">Hello fragment one</string>
+    <string name="hello_fragment_two">Hello fragment two</string>
+    <string name="change_fragment">Change Fragment</string>
+    <string name="remove_fragment">Remove Fragment</string>
 </resources>
