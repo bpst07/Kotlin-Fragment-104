@@ -2,6 +2,7 @@
 Handling configuration changes while adding, removing and replacing fragments
 
 When configuration change can happen?
+
 Changing screen orientation, user enabling multi window, user making keyboard available, or anything that can delay app 
 usage might cause configuration changes. When configuration changes, the system destroys the fragment and activity and 
 restarts by executing on create. As developers, we have to make sure that our application won’t lose user's data after 
